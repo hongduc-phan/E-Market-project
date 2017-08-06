@@ -1,0 +1,58 @@
+#top-logo-container {
+    background-color: #000000;
+}
+#top-row1 {
+    background-color: #000000;
+}
+.top-link, .top-link-user {
+    color: #ffffff;
+}
+.top-dropdown {
+    background-color: #ffffff;
+}
+.top-dropdown-link {
+    color: #000000;
+}
+#ws-header-wrapper {
+    background-color: #000000;
+    color: #ffffff;
+}
+.top-link2-active, .top-link2-active:hover, .top-link2-active:active, .top-link2-active:visited {
+    background-color: #000000;
+    color: #ffffff;
+}
+.top-link2-right {
+    color: #000000;
+}
+.ws-header-icon > a {
+    color: #ffffff;
+}
+.left {
+    background-color: #ffffff;
+}
+.folder {
+    background-color: #ffffff;
+    color: #000000;
+}
+.folder-edit-link {
+    color: #000000;        
+}
+a.folder-link, a.folder-link:visited a.folder-link:active {
+    color: #000000;         
+}
+a.ws-row, a.ws-row:visited a.ws-row:active {
+    color: #000000;
+}
+span.desktop-header {
+    color: #000000;
+}
+
+/* Startpage styles */
+.startpage-header-custom {
+    background-color: #b3b7ba;
+    color: #ffffff;
+}
+.startpage-button-custom {
+    background-color: #f7ac00;
+    color: #ffffff;
+}
